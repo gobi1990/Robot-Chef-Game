@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cc7158ec587da004bad4f1a2978ffc5c
+timeCreated: 1551086446
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: abeatbyKai
+  fontNames:
+  - abeatbyKai
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a67c891cc30b3104d8e200f1da81b6d2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

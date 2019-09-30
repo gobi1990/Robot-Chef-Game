@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/RobotChef_LoginMenu.unity
+    guid: 565c5db18871cd14da0880decde66c4d
+  - enabled: 1
+    path: Assets/_Scenes/RobotChef_MainMenu.unity
+    guid: c6eb66417af256c44a2f53e854b48f11
+  - enabled: 1
+    path: Assets/_Scenes/Levels/RobotChef_Level_1.unity
+    guid: dc9a70fb722322c49a09a342e093ec82
+  - enabled: 1
+    path: Assets/_Scenes/Levels/RobotChef_Level_2.unity
+    guid: 7f0f7979123ac014b8237400e24e9888
+  m_configObjects: {}

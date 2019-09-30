@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d7c045e00d6d3ba498d991f976ce8539
+timeCreated: 1522219088
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cheeze1
+    100004: GreenSalad_A
+    100006: GreenSalad_B
+    100008: LowerBun
+    100010: Petty
+    100012: Tomatto
+    100014: TopBun
+    100016: Betty
+    100018: BottomBread
+    100020: BottomSalad
+    100022: CheezeSlice
+    100024: TomatoSlice
+    100026: TopBread
+    100028: TopSalad
+    400000: //RootNode
+    400002: Cheeze1
+    400004: GreenSalad_A
+    400006: GreenSalad_B
+    400008: LowerBun
+    400010: Petty
+    400012: Tomatto
+    400014: TopBun
+    400016: Betty
+    400018: BottomBread
+    400020: BottomSalad
+    400022: CheezeSlice
+    400024: TomatoSlice
+    400026: TopBread
+    400028: TopSalad
+    2300000: Cheeze1
+    2300002: GreenSalad_A
+    2300004: GreenSalad_B
+    2300006: LowerBun
+    2300008: Petty
+    2300010: Tomatto
+    2300012: TopBun
+    2300014: Betty
+    2300016: BottomBread
+    2300018: BottomSalad
+    2300020: CheezeSlice
+    2300022: TomatoSlice
+    2300024: TopBread
+    2300026: TopSalad
+    3300000: Cheeze1
+    3300002: GreenSalad_A
+    3300004: GreenSalad_B
+    3300006: LowerBun
+    3300008: Petty
+    3300010: Tomatto
+    3300012: TopBun
+    3300014: Betty
+    3300016: BottomBread
+    3300018: BottomSalad
+    3300020: CheezeSlice
+    3300022: TomatoSlice
+    3300024: TopBread
+    3300026: TopSalad
+    4300000: LowerBun
+    4300002: GreenSalad_B
+    4300004: Tomatto
+    4300006: Petty
+    4300008: Cheeze1
+    4300010: GreenSalad_A
+    4300012: TopBun
+    4300014: BottomBread
+    4300016: BottomSalad
+    4300018: TomatoSlice
+    4300020: Betty
+    4300022: CheezeSlice
+    4300024: TopSalad
+    4300026: TopBread
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 7c5ded922db40134bbb225060b989d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 1c4500dce5829bc488c148c0b9ef2b56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 60e5ac07e5b519c4fa8e44eae301dc71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: d9a8b7239723ed54d9f4ace07b594b9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: e73f244ffea6b6847bc62d0d32eb8ef7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 32e90ec9997389547b890e9000a2f8de, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

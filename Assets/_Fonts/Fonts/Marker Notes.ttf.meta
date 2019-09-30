@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2e4f2ae274d7ca245bfb5e4fcaaadc3d
+timeCreated: 1551086446
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Marker Notes
+  fontNames:
+  - Marker Notes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
